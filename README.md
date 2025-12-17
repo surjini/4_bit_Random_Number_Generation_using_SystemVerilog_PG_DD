@@ -77,7 +77,8 @@ endmodule
 ```
 
 ## OUTPUT 
-![Uploading Screenshot 2025-11-18 090440.png…]()
+<img width="1920" height="1080" alt="Screenshot 2025-11-18 090440" src="https://github.com/user-attachments/assets/ce4d8e16-fc8a-4b9a-8ad9-b2b426520139" />
+
 
 
 ## RESULT 
