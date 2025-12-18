@@ -77,7 +77,7 @@ endmodule
 ```
 
 ## OUTPUT 
-
+<img width="1920" height="1080" alt="2222222" src="https://github.com/user-attachments/assets/c74c40ae-5b65-4b02-b9a9-01e9480e512a" />
 
 
 ## RESULT 
